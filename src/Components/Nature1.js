@@ -4,7 +4,7 @@ export default function Nature1() {
   return (
     <>
       <section className='image_container flex-center'>
-        <img src='https://amiraghajan78.github.io/my_images/nature_4.jpg' className='component_image' alt='' />
+        <img src='https://amiraghajan78.github.io/my_images/nature_1.jpg' className='component_image' alt='' />
       </section>
       <section className='component_info flex-center'>
         <h3>Nature 1</h3>
